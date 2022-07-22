@@ -4,8 +4,6 @@
 **dist**
 output/
 checkpoints/
-pcdet/
-tools/
 *.pyc
 venv/
 *.idea/
