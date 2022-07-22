@@ -10,7 +10,6 @@ venv/
 *.so
 *.py
 *.txt
-*.yaml
 *.sh
 *.pth
 *.pkl
